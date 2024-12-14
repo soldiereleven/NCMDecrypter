@@ -1,0 +1,12 @@
+E:\NCMDecrypter\bin\Debug\net8.0\NCMDecrypter.deps.json
+E:\NCMDecrypter\bin\Debug\net8.0\NCMDecrypter.dll
+E:\NCMDecrypter\bin\Debug\net8.0\NCMDecrypter.pdb
+E:\NCMDecrypter\obj\Debug\net8.0\NCMDecrypter.GeneratedMSBuildEditorConfig.editorconfig
+E:\NCMDecrypter\obj\Debug\net8.0\NCMDecrypter.AssemblyInfoInputs.cache
+E:\NCMDecrypter\obj\Debug\net8.0\NCMDecrypter.AssemblyInfo.cs
+E:\NCMDecrypter\obj\Debug\net8.0\NCMDecrypter.csproj.CoreCompileInputs.cache
+E:\NCMDecrypter\obj\Debug\net8.0\NCMDecrypter.dll
+E:\NCMDecrypter\obj\Debug\net8.0\refint\NCMDecrypter.dll
+E:\NCMDecrypter\obj\Debug\net8.0\NCMDecrypter.pdb
+E:\NCMDecrypter\obj\Debug\net8.0\ref\NCMDecrypter.dll
+E:\NCMDecrypter\obj\Debug\net8.0\NCMDecrypter.csproj.AssemblyReference.cache

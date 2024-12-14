@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NCMDecrypter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|e:\\ncmdecrypter\\ncmdecrypter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|solutionrelative:ncmdecrypter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|e:\\ncmdecrypter\\decrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|solutionrelative:decrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|e:\\ncmdecrypter\\ncmdecrypter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|solutionrelative:ncmdecrypter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43926BE-626B-4637-82C0-68A0EA601D8A}|..\\DecrypterTest\\DecrypterTest.csproj|e:\\decryptertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43926BE-626B-4637-82C0-68A0EA601D8A}|..\\DecrypterTest\\DecrypterTest.csproj|e:\\decryptertest\\decryptertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|e:\\ncmdecrypter\\decryptparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|solutionrelative:decryptparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|e:\\ncmdecrypter\\musicmetainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C3D3D0-56DA-4D08-AC3E-1CFA0C8A7D21}|NCMDecrypter.csproj|solutionrelative:musicmetainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NCMDecrypter",
+              "DocumentMoniker": "E:\\NCMDecrypter\\NCMDecrypter.csproj",
+              "RelativeDocumentMoniker": "NCMDecrypter.csproj",
+              "ToolTip": "E:\\NCMDecrypter\\NCMDecrypter.csproj",
+              "RelativeToolTip": "NCMDecrypter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T10:47:09.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DecryptParam.cs",
+              "DocumentMoniker": "E:\\NCMDecrypter\\DecryptParam.cs",
+              "RelativeDocumentMoniker": "DecryptParam.cs",
+              "ToolTip": "E:\\NCMDecrypter\\DecryptParam.cs",
+              "RelativeToolTip": "DecryptParam.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:02:46.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Decrypter.cs",
+              "DocumentMoniker": "E:\\NCMDecrypter\\Decrypter.cs",
+              "RelativeDocumentMoniker": "Decrypter.cs",
+              "ToolTip": "E:\\NCMDecrypter\\Decrypter.cs",
+              "RelativeToolTip": "Decrypter.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwDYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:11:41.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicMetaInfo.cs",
+              "DocumentMoniker": "E:\\NCMDecrypter\\MusicMetaInfo.cs",
+              "RelativeDocumentMoniker": "MusicMetaInfo.cs",
+              "ToolTip": "E:\\NCMDecrypter\\MusicMetaInfo.cs",
+              "RelativeToolTip": "MusicMetaInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:38:49.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NCMDecrypter.csproj",
+              "DocumentMoniker": "E:\\NCMDecrypter\\NCMDecrypter.csproj",
+              "RelativeDocumentMoniker": "NCMDecrypter.csproj",
+              "ToolTip": "E:\\NCMDecrypter\\NCMDecrypter.csproj",
+              "RelativeToolTip": "NCMDecrypter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T08:34:05.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DecrypterTest.csproj",
+              "DocumentMoniker": "E:\\DecrypterTest\\DecrypterTest.csproj",
+              "RelativeDocumentMoniker": "..\\DecrypterTest\\DecrypterTest.csproj",
+              "ToolTip": "E:\\DecrypterTest\\DecrypterTest.csproj",
+              "RelativeToolTip": "..\\DecrypterTest\\DecrypterTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T08:34:08.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DecrypterTest\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DecrypterTest\\Program.cs",
+              "ToolTip": "E:\\DecrypterTest\\Program.cs",
+              "RelativeToolTip": "..\\DecrypterTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:32:19.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
